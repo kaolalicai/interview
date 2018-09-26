@@ -5,7 +5,7 @@
    
 
  - 请不要轻视这题目，完成得高质量，绝对不容易。
- - **email 标题请以“考拉理财后端机试+姓名+电话”**
+ - **email 标题请以“AI考拉 后端机试+姓名+电话”**
  - 请独立完成，其他注意事项见下方FAQ。
 
 ------
@@ -57,6 +57,6 @@
  
 指定邮箱为：wdeng@kalengo.com
 
-  [1]: http://www.kaolalicai.cn
+  [1]: https://www.aikaola.cn/
 
 
